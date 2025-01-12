@@ -20,6 +20,7 @@ public class Main {
         variablesJava.setVariavelString(variavelString);
         variablesJava.setVariavelBoolean(variavelBoolean);
 
+        System.out.println("******EXPLICAÇÃO DAS VARIAVEIS******");
 
         System.out.println("Int: Numeros inteiros de 32 bits," + variablesJava.getVariavelInt());
         System.out.println("Byte: Numeros inteiros de 8 bits," + variablesJava.getVariavelByte());
